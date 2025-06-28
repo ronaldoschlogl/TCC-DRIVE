@@ -1,0 +1,9 @@
+/img_align_celeba
+/resultados_sample
+/modelos_salvos
+__pycache__/Dataset.cpython-312.pyc
+/resultados
+*.png
+*.jpg
+__pycache__/gaussian_diffusion.cpython-312.pyc
+__pycache__/models.cpython-312.pyc
